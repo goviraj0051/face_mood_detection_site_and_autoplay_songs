@@ -1,0 +1,8 @@
+TypeError: fetch failed
+    at Object.processResponse (node:internal/deps/undici/undici:12024:20)
+    at node:internal/deps/undici/undici:12405:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at node:internal/deps/undici/undici:16557:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Models.generateContent (E:\project\project\node_modules\@google\genai\dist\node\index.cjs:13549:24)
+    at async main ([eval]:1:203)

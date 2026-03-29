@@ -1,0 +1,7 @@
+{
+  "name": "Mood : Tamil Edition",
+  "description": "An AI-powered mood detector that analyzes your facial expressions to recommend the perfect Tamil playlist for your current vibe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

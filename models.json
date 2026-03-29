@@ -1,0 +1,6 @@
+TypeError: fetch failed
+    at Object.processResponse (node:internal/deps/undici/undici:12024:20)
+    at node:internal/deps/undici/undici:12405:23
+    at node:internal/deps/undici/undici:16557:7
+    at async Models.list (E:\project\project\node_modules\@google\genai\dist\node\index.cjs:13736:96)
+    at async main ([eval]:1:203)
